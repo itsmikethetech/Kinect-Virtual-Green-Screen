@@ -1,0 +1,5 @@
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\KinectCam\obj\Release\KinectCam.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\KinectCam\obj\Release\KinectCam.AboutForm.resources
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\KinectCam\obj\Release\VirtualCam.Properties.Resources.resources
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\KinectCam\obj\Release\KinectCam.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\KinectCam\obj\Release\KinectCam.csproj.CoreCompileInputs.cache

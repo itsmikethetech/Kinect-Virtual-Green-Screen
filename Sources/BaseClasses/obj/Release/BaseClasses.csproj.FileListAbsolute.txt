@@ -1,0 +1,7 @@
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Output\bin\Release\BaseClassesNET.dll.config
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Output\bin\Release\BaseClassesNET.dll
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Output\bin\Release\BaseClassesNET.pdb
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\BaseClasses\obj\Release\BaseClasses.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\BaseClasses\obj\Release\BaseClasses.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\BaseClasses\obj\Release\BaseClassesNET.dll
+C:\Users\alisa\Desktop\KinectCamSrcAndBin\Sources\BaseClasses\obj\Release\BaseClassesNET.pdb
